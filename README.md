@@ -10,7 +10,7 @@ Sample message is as follows.
 
 ![Architecture](architecture.drawio.png)
 
-See more details in [xxxxx](xxxxx).
+See more details in [Qiita](https://qiita.com/Jiei-S/items/082c66fe13e2ed3c2729).
 
 # How To Development
 
